@@ -1,4 +1,4 @@
 {
-  "code": 1,
-  "command": "ls -l /home/usuario"
+  "code": 0,
+  "command": "shutdown -h +1"
 }
