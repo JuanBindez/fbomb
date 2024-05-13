@@ -1,2 +1,6 @@
 # fbomb
-fork bomb
+
+
+## Run 
+
+    nohup python3 fbomb.py &
